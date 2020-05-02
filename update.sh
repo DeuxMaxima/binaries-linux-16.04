@@ -1,6 +1,6 @@
 allforonebusiness-cli stop
 rm -R binaries-linux
-git clone https://github.com/allforonebusiness/binaries-linux-16.04 binaries-linux
+git clone https://github.com/DeuxMaxima/binaries-linux-16.04 binaries-linux
 mv ./binaries-linux/allforonebusiness-cli /usr/bin/allforonebusiness-cli
 mv ./binaries-linux/allforonebusinessd /usr/bin/allforonebusinessd
 mv ./binaries-linux/allforonebusiness-tx /usr/bin/allforonebusiness-tx
